@@ -1,0 +1,158 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "name2": "Vivamus metus arcu.",
+            "price": 81037,
+            "desc": 85942,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/sep-9-2022/224577201_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Dark Green Colourblocked Sneakers"
+        },
+        {
+            "id": 2,
+            "name2": "Maecenas tincidunt  velit.",
+            "price": 46162,
+            "desc": 66635,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/16-jan-2023/284552901_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Black PU Skater Sneakers"
+        },
+        {
+            "id": 3,
+            "name2": "Duis bibendum.",
+            "price": 59085,
+            "desc": 55999,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/19-may-2022/248135002_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Blue Mesh Sneakers"
+        },
+        {
+            "id": 4,
+            "name2": "Integer ac leo.",
+            "price": 58546,
+            "desc": 59935,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/dec-27-2022/128853502_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "White Contrast Mesh Sneakers"
+        },
+        {
+            "id": 5,
+            "name2": "Duis mattis egestas metus.",
+            "price": 33321,
+            "desc": 48955,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/sep_27-2022/132253701_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Blue Sneakers"
+        },
+        {
+            "id": 6,
+            "name2": "Pellentesque eget nunc.",
+            "price": 74152,
+            "desc": 83785,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/10-feb-2023/284552602_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Grey & White Lace-Up Sneakers"
+        },
+        {
+            "id": 7,
+            "name2": "Aenean fermentum.",
+            "price": 9944,
+            "desc": 15935,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/8-feb-2022/132380701_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Grey Sneakers"
+        },
+        {
+            "id": 8,
+            "name2": "Maecenas ut massa quis augue .",
+            "price": 70417,
+            "desc": 75937,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/16-jan-2023/284552702_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "White Colourblocked Sneakers"
+        },
+        {
+            "id": 9,
+            "name2": "Cras mi pede, malesuada in, justo.",
+            "price": 38996,
+            "desc": 55935,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/8-feb-2022/132380702_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Black Sneakers"
+        },
+        {
+            "id": 10,
+            "name2": " tortor risus dapibus augue,",
+            "price": 64166,
+            "desc": 67935,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/16-jan-2023/284552402_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "White Colourblocked Sneakers"
+        },
+        {
+            "id": 11,
+            "name2": "In eleifend quam a odio.",
+            "price": 29021,
+            "desc": 32935,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/jan-18-2020/210963901_g1.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Olive Sneakers"
+        },
+        {
+            "id": 12,
+            "name2": "Aliquam sit amet diam.",
+            "price": 45935,
+            "desc": 55935,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/dec-27-2022/284552802_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "White Sneakers"
+        }
+    ],
+    "access": [
+        {
+            "id": 1,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/16-jan-2023/283353701_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Black Studded Leather Belt",
+            "price": 3499,
+            "desc": 4999
+        },
+        {
+            "id": 2,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/march-20-20/202237102_g1.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Brown Aviator Sunglasses",
+            "price": 5555,
+            "desc": 5996
+        },
+        {
+            "id": 3,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/august-16-2021/258378503_g1.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Black Logo Print Baseball Cap",
+            "price": 799,
+            "desc": 999
+        },
+        {
+            "id": 4,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/07-mar-2022/278294903_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Dark Brown Wallet",
+            "price": 1299,
+            "desc": 1999
+        },
+        {
+            "id": 5,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/dec-20-2022/283352901_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Black Printed Leather Belt",
+            "price": 1699,
+            "desc": 1999
+        },
+        {
+            "id": 6,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/2-Aug-2022/161848101_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Red Logo Print Backpack",
+            "price": 6840,
+            "desc": 7699
+        },
+        {
+            "id": 7,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/sep-16-2022/264149001_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Blue Colourblocked Backpack",
+            "price": 2999,
+            "desc": 3999
+        },
+        {
+            "id": 8,
+            "first_img": "https://images.bestsellerclothing.in/data/JJ/26-aug-2022/234931104_g1.jpg?width=415&height=550&mode=fill&fill=blur&format=auto",
+            "title": "Navy Blue Knit Gloves",
+            "price": 789,
+            "desc": 999
+        }
+    ]
+}
