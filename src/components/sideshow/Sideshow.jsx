@@ -50,7 +50,7 @@ const Slideshow = () => {
 
 
   return (
-    <div className={style.slideshow}>
+    <Box className={style.slideshow} h={["35vh","40vh","50vh","70vh"]}>
       {slides.map((slide, index) => (
         <motion.div
           key={slide.id}
@@ -69,7 +69,7 @@ const Slideshow = () => {
           return <Box borderRadius={"10%"} w={"20px"} border={animation===i?"4px solid white":"4px solid black"} ></Box>
         })}
       </Box>
-    </div>
+    </Box>
   );
 };
 
