@@ -11,7 +11,7 @@ import { GiHamburgerMenu } from "react-icons/gi"
 
 export const Navbars = () => {
     return (
-        <Box py={["10px","10px","20px","20px"]} pb={"10px"} position={"sticky"} top={0} zIndex={"6"} bg={"white"} >
+        <Box py={["20px","30px","20px","20px"]} pb={"10px"} position={"sticky"} top={0} zIndex={"6"} bg={"white"} >
 
             <Flex justifyContent={"space-around"} >
                 <Box display={["flex","flex","flex","none"]} gap={"2"} >
@@ -23,10 +23,10 @@ export const Navbars = () => {
                         <Icon as={BiSearch} />
                     </Center>
                 </Box>
-                <Box w={["20%","20%","18%","10%"]} bg={"green"}>
+                <Box w={["25%","25%","20%","10%"]}>
                     <Image src="https://hypefly-assets.s3.ap-south-1.amazonaws.com/media/defaults/store_logo.webp" alt='logo' h={"100%"} w={"100%"} />
                 </Box>
-                <Box w={"50%"} display={["none", "none", "none", "block"]} >
+                <Box w={["50%","50%","70%","50%"]} display={["none", "none", "none", "block"]}  >
                     <Flex justifyContent={"space-around"} >
                         <Box my={"auto"} >
 
